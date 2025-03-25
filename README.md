@@ -12,4 +12,4 @@ my daily program and project for IOT
 
 # 23/11/20 QRcode的生成
 🤖🤖🤖
-Author:liulanker@gamil.
+Author:liulanker@gamil.com
